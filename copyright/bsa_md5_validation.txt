@@ -1,0 +1,8 @@
+
+find ./morrowind -type f -print0 | xargs -0 md5sum > ./morrowind.md5
+find ./bloodmoon -type f -print0 | xargs -0 md5sum > ./bloodmoon.md5
+find ./tribunal -type f -print0 | xargs -0 md5sum > ./tribunal.md5
+
+md5sum -c morrowind.md5 > morrowind.validate
+md5sum -c bloodmoon.md5 > bloodmoon.validate
+md5sum -c tribunal.md5 > tribunal.validate
