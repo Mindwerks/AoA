@@ -1,0 +1,3 @@
+7431f2a4b07a15d613f119c1ae9e38d4  Ashes_of_Apocalypse_(demo)_setup.exe
+3b2ef7f09bd5e1a501be4fc1b6e5ff2d  aoa1_1.zip
+7280df51350325f9dec8c758bf56fe71  AOA_1.1_patch.zip

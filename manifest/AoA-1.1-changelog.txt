@@ -1,0 +1,33 @@
+Requires version 1.0 before using patch
+
+New Content
+- 2 cities: Sunslave and Outpost 22
+- Mod datapad that allows you to select mods to add onto your game
+- Editor to make AoA mods
+- Song added in Sunslave bar
+- The Road Warrior DVD
+- All crates should have a chance for generating random loot
+- Expanded land south of Taran
+- Added beacon light trail between Outpost 21 and Outpost 22
+
+Bug Fixes and Changes
+- Leveling crash
+- Startup warning video spelling
+- Doors at Sunslave now all accessible
+- Hole in Taran bridge dirt covered
+- Door in starting room is now locked
+- Storage to sewer entrance clipping issues
+- Ladder up from storage area someplace is now linked
+- Doorway in upstairs tripod bar has been widened
+- Glowing generators removed from wasteland
+- Black doors in sewers are placed out of reach & locked
+- Button down in 21 apartments is now locked
+- Doors to 21 club now have handles toward middle
+- Door to random green building along road locked
+- Fixed Outpost 21 sewer holes
+- Buildings in 21 fixed to remove shimmer
+- Glowing rubble near green house
+- Sound File Not Foundata Files\Sound\Fx\Critical DMG.wav
+- Changed UBA armor from Light to Medium
+
+Released on February 11, 2006
